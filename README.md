@@ -24,7 +24,13 @@
 - [How To Create Your Own Base Aliases](https://laravel-news.com/bash-aliases)
 - [Completely uninstall mysql-server](https://www.digitalocean.com/community/questions/completely-uninstall-mysql-server)
 
-
 ## Python-django
   - https://docs.djangoproject.com/en/3.1/
   - https://www.djangoproject.com/start/
+
+## GET STARTED WITH REACTJS
+### Installation and Project setUp resource
+  - https://www.w3schools.com/react/default.asp
+  - https://create-react-app.dev/docs/getting-started/
+### Deployment resource
+ - https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f
